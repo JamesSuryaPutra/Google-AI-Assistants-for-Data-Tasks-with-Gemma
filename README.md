@@ -1,5 +1,6 @@
 # Google - AI Assistants for Data Tasks with Gemma
-<img width="560" height="280" alt="image" src="https://github.com/user-attachments/assets/daa85903-940e-440c-a365-719407212ce9" />
+<img width="280" height="140" alt="header (1)" src="https://github.com/user-attachments/assets/4f807044-3250-4f76-92e4-c4f9dd21f9db" />
+
 
 
 # Overview
